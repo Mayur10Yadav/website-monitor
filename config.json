@@ -1,0 +1,25 @@
+{
+  "keywords": [
+    "circular",
+    "notice",
+    "notification",
+    "announcement",
+    "advertisement",
+    "advt",
+    "recruitment",
+    "vacancy",
+    "update"
+  ],
+  "sites": [
+    {
+      "name": "Example College Notices",
+      "url": "https://example.com/notices",
+      "receivers": ["you@example.com"]
+    },
+    {
+      "name": "Example Company Careers",
+      "url": "https://example.com/careers",
+      "receivers": ["you@example.com", "friend@example.com"]
+    }
+  ]
+}
