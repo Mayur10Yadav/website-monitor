@@ -3,7 +3,7 @@
   "sites": [
     {
       "name": "Wikipedia Test",
-      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "url": "https://en.wikipedia.org/w/index.php?title=List_of_Natural_History_articles_by_Gerard_Krefft_in_The_Sydney_Mail&gesuggestededit=1&veaction=edit&action=edit",
       "receivers": ["saarthi1000@gmail.com"]
     }
   ]
